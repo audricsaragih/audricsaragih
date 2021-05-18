@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @audricsaragih
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+👋 Hi, I’m [Audric Saragih](https://github.com/audricsaragih)
+
+👀 I’m interested in Electrical and Programming Engineering
+
+🌱 I’m currently learning at Bandung Institute of Technology, Indonesia
+
+[//]: <> (- 💞️ I’m looking to collaborate on ...)
 - 📫 How to reach me ...
 
 <!---

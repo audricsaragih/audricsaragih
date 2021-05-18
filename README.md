@@ -1,6 +1,6 @@
 👋 Hi, I’m [Audric Saragih](https://github.com/audricsaragih)
 
-👀 I’m interested in Electrical and Programming Engineering
+👀 I’m interested in Electrical and Programming Engineering  <br />
 🌱 I’m currently learning at Bandung Institute of Technology, Indonesia
 
 [//]: <> (- 💞️ I’m looking to collaborate on ...)
